@@ -1,0 +1,7 @@
+*NOTE : Which function from the expo-av library is used to play the sound?
+await Audio.Sound.createAsync()
+*NOTE : In which stage of Lifecycle do props or state values of a component change?
+Updating: When the props or state values of a component change.
+*NOTE : Using which component can you style each text as a clickable button?
+TouchableOpacity component
+TouchableOpacity component is used to style text as a clickable button.
